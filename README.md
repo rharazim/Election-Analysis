@@ -13,6 +13,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.8.10, Visual Studio Code version 1.60.2
 
 ## Analysis Summary
+https://github.com/rharazim/Election-Analysis/blob/main/Resources/election_results_terminal.png
+
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election.
@@ -40,7 +42,7 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette who received 73.8% of the vote with 272,892 votes.
 
-## Challenege Overview
+## Challenge Overview
 Our initial audit summarized the candidates and their performance in this election. We counted the votes for each candidate, got their percentage share of the total vote count and declared a winner based on popular vote. However, the Colorado Board of Elections wanted some additional data to aid in the audit. They asked us to identify the counties involved in the election and find out which had the largest voter participation. We found that over 82% of votes came from Denver county. 
 
 ## Challenge Summary
